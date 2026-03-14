@@ -1,5 +1,9 @@
 # UE 905 – Statistical Analyses 📊
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![RMarkdown](https://img.shields.io/badge/RMarkdown-276DC3?style=flat)
+![lme4](https://img.shields.io/badge/lme4-276DC3?style=flat)
+
 Advanced statistical modelling applied to forest inventory data, using linear models, mixed models, and generalized linear models in R.
 
 ---
